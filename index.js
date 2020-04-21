@@ -1,7 +1,7 @@
-const animal = "cat";
-
+const animal = 'cat';
+const myAnimal = 'dog';
 function myAnimal() {
- myAnimal(dog);
+
   return myAnimal;
 }
 
