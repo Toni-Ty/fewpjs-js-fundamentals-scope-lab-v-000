@@ -1,8 +1,9 @@
 const animal = 'cat';
-const myAnimal = 'dog';
+const animals = 'dog';
+
 function myAnimal() {
 
-  return myAnimal;
+  return animals;
 }
 
 function yourAnimal() {
